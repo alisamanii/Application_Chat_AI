@@ -2,16 +2,16 @@
 
 
 ````markdown
-# 🤖 AI Chatbot - Flutter
+ 🤖 AI Chatbot - Flutter
 
-## English
+ English
 
-### 📖 Description
+ 📖 Description
 AI Chatbot is a Flutter-based mobile application that allows users to have interactive conversations with an AI model.  
 The chatbot supports smooth UI/UX, message history, and intelligent responses using AI APIs.  
 It is designed for real-time, fast, and engaging AI chat experiences.
 
-### ✨ Features
+✨ Features
 - 🔹 Real-time AI responses
 - 🔹 Modern and responsive Flutter UI
 - 🔹 Chat history support
@@ -19,13 +19,13 @@ It is designed for real-time, fast, and engaging AI chat experiences.
 - 🔹 Multi-platform support (Android, iOS, Web)
 - 🔹 Easy API integration (e.g., OpenAI, Gemini, custom LLM)
 
-### 🛠️ Tech Stack
+ 🛠️ Tech Stack
 - **Frontend:** Flutter (Dart)
 - **Backend:** Any AI API (configurable)
 - **State Management:** Provider / Riverpod / Bloc
 - **Animations:** Lottie / Custom typing effect
 
-### 📦 Installation
+ 📦 Installation
 1. Clone this repository:
    ```bash
    git clone https://github.com/your-username/ai-chatbot-flutter.git
