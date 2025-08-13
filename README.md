@@ -93,7 +93,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ```
 
 ---
-
-من می‌توانم همین متن را برایتان **با Markdown حرفه‌ای و آیکون‌های زیبا** آماده کنم و حتی اسکرین‌شات‌ها و Badges مخصوص GitHub هم اضافه کنم تا صفحه‌تان کاملاً حرفه‌ای شود.  
-آیا می‌خواهید نسخه نهایی را با **طراحی و استایل کامل GitHub** برایتان آماده کنم؟
-```
