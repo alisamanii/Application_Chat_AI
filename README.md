@@ -1,10 +1,5 @@
 # Application_Chat_AI
 
-باشه، من یک متن توضیحات کامل و حرفه‌ای برای صفحه GitHub پروژه چت‌بات هوش مصنوعی شما می‌نویسم که هم فارسی باشد و هم انگلیسی. این توضیحات شامل معرفی پروژه، ویژگی‌ها، نحوه اجرا، پیش‌نیازها و لایسنس خواهد بود.
-
----
-
-## 📌 README.md (دو زبانه: English + فارسی)
 
 ````markdown
 # 🤖 AI Chatbot - Flutter
@@ -48,11 +43,6 @@ It is designed for real-time, fast, and engaging AI chat experiences.
    flutter run
    ```
 
-### 📷 Screenshots
-
-| Home Screen                   | Chat Screen                   |
-| ----------------------------- | ----------------------------- |
-| ![Home](screenshots/home.png) | ![Chat](screenshots/chat.png) |
 
 ### 📄 License
 
@@ -60,7 +50,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ---
 
-## فارسی
 
 ### 📖 توضیحات
 
@@ -101,17 +90,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
    ```bash
    flutter run
    ```
-
-### 📷 تصاویر
-
-| صفحه اصلی                     | صفحه چت                       |
-| ----------------------------- | ----------------------------- |
-| ![Home](screenshots/home.png) | ![Chat](screenshots/chat.png) |
-
-### 📄 لایسنس
-
-این پروژه تحت لایسنس MIT منتشر شده است. برای اطلاعات بیشتر فایل LICENSE را ببینید.
-
 ```
 
 ---
